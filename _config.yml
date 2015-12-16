@@ -9,7 +9,7 @@
 title: Andy Cernera
 email: your-email@domain.com
 description: Look at how smart I am
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "http://kooshaba.github.io" # the base hostname & protocol for your site
 github_username:  kooshaba
 
